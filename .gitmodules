@@ -1,0 +1,3 @@
+[submodule "CXE.CoreFx"]
+	path = CXE.CoreFx
+	url = https://github.com/noorsyyed/CXE-CoreFx.git
