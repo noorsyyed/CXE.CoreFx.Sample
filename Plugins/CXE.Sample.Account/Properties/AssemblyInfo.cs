@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CXE.CoreFx.Sample")]
+[assembly: AssemblyTitle("CXE.Sample.Account")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("CXE.CoreFx.Sample")]
+[assembly: AssemblyProduct("CXE.Sample.Account")]
 [assembly: AssemblyCopyright("Copyright ©  2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("35a1df4f-8693-478e-84f2-fa60e6c61126")]
+[assembly: Guid("00167044-ad00-4dc6-b6e2-917cdb4a2438")]
 
 // Version information for an assembly consists of the following four values:
 //

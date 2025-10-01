@@ -1,0 +1,26 @@
+{
+  "inputs": [],
+  "servers": {
+    "CXE-IN Dev02": {
+      "type": "stdio",
+      "command": "Microsoft.PowerPlatform.Dataverse.MCP",
+      "args": [
+        "--ConnectionUrl",
+        "https://make.powerautomate.com/environments/026414aa-029d-ec30-b749-d8d98c3a7fa3/connections?apiName=shared_commondataserviceforapps&connectionName=7bda5296174243a7b59f84ca1909a1e1",
+        "--MCPServerName",
+        "DataverseMCPServer",
+        "--TenantId",
+        "f3448237-dbe4-4e2e-831e-8f23006e3db5",
+        "--EnableHttpLogging",
+        "true",
+        "--EnableMsalLogging",
+        "true",
+        "--Debug",
+        "false",
+        "--BackendProtocol",
+        "HTTP"
+      ],
+      "env": {}
+    }
+  }
+}
